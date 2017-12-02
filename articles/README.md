@@ -13,7 +13,7 @@ Open-mindedness and having a sense that you need to be constantly learning
 
 ## Authors
 
-* **Mark McKee** - *Initial work* - [PurpleBooth](https://github.com/mckema)
+* **Mark McKee** - [mckema](https://github.com/mckema)
 
 ## Acknowledgments
 
